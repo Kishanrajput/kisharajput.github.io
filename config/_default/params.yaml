@@ -28,7 +28,7 @@ hugoblox:
     theme_toggle: true
   footer:
     style: minimal
-    language_switcher: true
+    language_switcher: false
   copyright:
     notice: © {year} {name}
   content:

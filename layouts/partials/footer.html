@@ -1,0 +1,13 @@
+{{/* Remove the default Hugo Blox Kit promotional message by overriding the footer */}}
+{{/* This file overrides the default footer partial */}}
+
+<footer class="site-footer">
+  {{/* Custom footer content goes here */}}
+  <p class="powered-by">
+    {{ with .Site.Params.hugoblox.copyright.notice }}
+      {{ . | markdownify }}
+    {{ else }}
+      © {{ now.Year }} {{ .Site.Params.hugoblox.identity.name }}
+    {{ end }}
+  </p>
+</footer>
