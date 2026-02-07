@@ -6,9 +6,10 @@ links:
     url: ''
 tags:
   - Machine Learning
+  - Continual Learning
   - Coming Soon
 ---
 
-L3Kit - A toolkit for machine learning at the level of experimental physics. Coming soon.
+Lifelong Learning Layer Toolkit (L3Kit) is a framework for modern continual learning evaluation and deployment.
 
 <!--more-->
