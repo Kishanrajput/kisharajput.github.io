@@ -47,7 +47,7 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+url_source: 'https://www.osti.gov/biblio/3012389'
 url_video: ''
 
 # Featured image
