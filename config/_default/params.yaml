@@ -12,6 +12,27 @@ hugoblox:
       primary: ""
       secondary: ""
       neutral: ""
+  theme_selector:
+    enable: true
+    packs:
+      - name: marine
+        label: Marine
+      - name: darcula
+        label: Darcula
+      - name: macha
+        label: Macha
+      - name: solar
+        label: Solar
+      - name: forest
+        label: Forest
+      - name: cherry
+        label: Cherry
+      - name: ocean
+        label: Ocean
+      - name: coffee
+        label: Coffee
+      - name: minimal
+        label: Minimal
   typography:
     font: native
     size: md
