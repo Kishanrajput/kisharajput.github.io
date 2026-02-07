@@ -12,5 +12,5 @@ image:
   filename: ''
 
 # Reduce title heading size
-heading_variant: h2
+heading_variant: h3
 ---
