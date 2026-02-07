@@ -3,105 +3,110 @@ slug: "me"
 is_owner: true
 name:
   display: "Kishan Rajput"
-  given: "Alex"
-  family: "Johnson"
+  given: "Kishansingh"
+  family: "Rajput"
   alternate: ""
   pronunciation: ""
   pronouns: "he/him"
-postnominals:
-  - "PhD"
-  - "MIEEE"
+postnominals: []
 status:
-  icon: "☕️"
-role: "Senior AI Research Scientist"
-bio: "Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
-
-  has been published in top conferences like NeurIPS and ICML, with over
-
-  10,000 citations. Alex is passionate about pushing the boundaries of AI
-
-  while ensuring ethical development.\n"
+  icon: ""
+role: "Computer Scientist"
+bio: "Staff Computer Scientist II at Thomas Jefferson National Accelerator Facility (Jefferson Lab). Specializing in machine learning for particle accelerators and nuclear physics applications, with expertise in reinforcement learning and uncertainty quantification.\n"
 affiliations:
-  - name: "Meta AI"
-    url: "https://ai.meta.com/"
+  - name: "Thomas Jefferson National Accelerator Facility"
+    url: "https://www.jlab.org"
 links:
   - icon: "at-symbol"
-    url: "mailto:alex.johnson@example.com"
+    url: "mailto:kishan@jlab.org"
     label: "E-mail Me"
-  - icon: "brands/x"
-    url: "https://x.com/example"
-  - icon: "brands/github"
-    url: "https://github.com/example"
   - icon: "brands/linkedin"
-    url: "https://www.linkedin.com/in/example/"
+    url: "https://www.linkedin.com/in/kishansingh-rajput-120104115/"
   - icon: "academicons/google-scholar"
-    url: "https://scholar.google.com/citations?user=example"
-  - icon: "academicons/orcid"
-    url: "https://orcid.org/0000-0002-1825-0097"
+    url: "https://scholar.google.com/citations?user=1Ve7pi8AAAAJ&hl=en&authuser=1"
 interests:
-  - "Large Language Models"
-  - "Computer Vision"
+  - "Artificial Intelligence"
+  - "Machine Learning"
   - "Reinforcement Learning"
-  - "AI Ethics"
+  - "Continual Learning"
+  - "Anomaly Prediction / Detection"
+  - "Optimization and Control"
+  - "Particle Accelerator Applications"
 education:
-  - degree: "PhD Computer Science"
-    institution: "Stanford University"
-    start: "2015-09-01"
-    end: "2019-06-30"
-    summary: "Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.\n"
-    button:
-      text: "Download dissertation"
-      url: "/resume.pdf"
-      icon: "hero/arrow-down-tray"
+  - degree: "PhD - Adaptive Machine Learning for Science and Engineering"
+    institution: "University of Houston, Houston, TX, USA"
+    start: "2023-01-01"
+    end: "2026-12-31"
+    summary: "Advisor: Dr. Sen Lin. Thesis: Adaptive Machine Learning for Science and Engineering\n"
   - degree: "MS Computer Science"
-    institution: "Carnegie Mellon University"
-    start: "2013-09-01"
-    end: "2015-05-31"
-  - degree: "BS Computer Science"
-    institution: "MIT"
-    start: "2009-09-01"
-    end: "2013-05-31"
-experience:
-  - role: "Senior AI Research Scientist"
-    org: "Meta AI"
-    start: "2020-01-01"
-    summary: "Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.\n"
+    institution: "University of Houston, Houston, TX, USA"
+    start: "2018-08-15"
+    end: "2020-05-31"
+    summary: "GPA: 4.0/4.0. Advisor: Dr. Guoning Chen. Thesis: Anomaly Detection and Feature Alignment for Time Series Data. Awards: Outstanding MS Student Award, 2020. Courses: Advanced Machine Learning and AI, Software Engineering, Scientific and Information Visualization, Data Structures and Algorithms\n"
     button:
-      text: "View portfolio"
-      url: "/"
-      icon: "hero/arrow-down-tray"
-  - role: "AI Research Intern"
-    org: "OpenAI"
-    start: "2019-06-01"
-    end: "2019-12-31"
-    summary: "Worked on GPT-3 scaling. Co-authored paper on prompt engineering.\n"
+      text: "Read Thesis"
+      url: "https://www.proquest.com/openview/d8f250673d3a7cca932d86de666c762f/1?pq-origsite=gscholar&cbl=18750&diss=y"
+  - degree: "BEng Computer Engineering"
+    institution: "Gujarat Technological University (LD College of Engineering), GJ, India"
+    start: "2014-08-01"
+    end: "2018-05-15"
+    summary: "GPA: 9.4/10.0. Courses: Programming Languages (C, C++, Java, Python), Data Mining, Artificial Intelligence, Calculus, Algebra, Core Mechanical and Electrical\n"
+experience:
+  - role: "Staff Computer Scientist II"
+    org: "Thomas Jefferson National Accelerator Facility (Jefferson Lab)"
+    start: "2020-07-15"
+    summary: "Lead Multiple High-Impact Projects: (1) JLab PI: Towards Self-driving NP Scientific User Facilities (2025-2027) - $2M DOE Office of Science funding. Leading ML-based optimization/control, hybrid Bayesian optimization, deep reinforcement learning, and model predictive control. (2) Team Co-lead: Mathematics and Algorithm Development Group for Nuclear Femtography Inference at Exascale Platforms (2022-2024) - $6.5M DOE SciDAC funding. (3) Project Lead: ML-assisted charged particle tracking with Graph Neural Networks (2023-Present) - $150K/year funding. (4) Team Lead: Machine Learning for SNS Accelerator Performance (2023-2026) - $2.4M DOE funding.\n"
+  - role: "Data Analytics Specialist"
+    org: "Shell, Houston Headquarters, TX, USA"
+    start: "2019-05-15"
+    end: "2019-08-15"
+    summary: "Supported well engineers' team with production level solutions. Improved detection/visualization of over/under gauge in oil well drilling. Developed novel deep learning architecture to detect surface formation transitions using gamma ray signal logs. Developed Encryption Agent to improve user experience.\n"
+  - role: "Research Assistant"
+    org: "University of Houston"
+    start: "2018-08-15"
+    end: "2020-05-31"
+    summary: "Development of Data Driven Solutions for Oil Well Drilling Applications. Devised visual analytical framework for anomaly detection. Improved recommender system for individual forecasting. Developed probabilistic envelope-based visualization technique for time series data. Teaching Assistant in graduate level AI class.\n"
+  - role: "Data Analyst Software Developer"
+    org: "Kilkenny Electronics, Ahmedabad, GJ, India"
+    start: "2015-08-01"
+    end: "2018-07-31"
+    summary: "Reduced operating cost by automating daily tasks including timekeeping, notifications, grades, progress reports, leaves and payroll by creating an ERP system using SQL and Java. Improved follow-up process with students by creating analytical tools. Mentored freelance developers and interns.\n"
 skills:
   - name: "Technical Skills"
     items:
-      - label: "Python"
-        level: 5
       - label: "Machine Learning"
         level: 5
-      - label: "Cloud Computing"
-        level: 4
-  - name: "Research & Communication"
-    items:
-      - label: "Academic Writing"
+      - label: "Reinforcement Learning"
         level: 5
-      - label: "Conference Presentations"
+      - label: "Uncertainty Quantification for ML"
+        level: 5
+      - label: "Optimization and Control"
+        level: 5
+      - label: "Data Science"
+        level: 5
+      - label: "SQL"
+        level: 3
+  - name: "Hobbies"
+    items:
+      - label: "Hiking"
         level: 4
-      - label: "Grant Proposals"
+      - label: "Running"
+        level: 5
+      - label: "Music"
         level: 4
 languages:
   - name: "English"
     level: 5
     label: "Native"
-  - name: "Spanish"
-    level: 4
-    label: "Fluent"
-awards:
-  - title: "Best Paper Award"
-    awarder: "NeurIPS"
-    date: "2022-12-01"
-    summary: "Awarded for groundbreaking work on efficient training of large models."
-    icon: "hero/trophy"
+  - name: "Hindi"
+    level: 5
+    label: "Native"
+  - name: "Rajasthani"
+    level: 5
+    label: "Native"
+  - name: "Gujarati"
+    level: 5
+    label: "Native"
+  - name: "French"
+    level: 1
+    label: "Basic"
