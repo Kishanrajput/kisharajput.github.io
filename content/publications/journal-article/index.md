@@ -1,12 +1,20 @@
 ---
-title: "An example journal article"
+title: "Harnessing the power of gradient-based simulations for multi-objective optimization in particle accelerators"
 authors:
-- me
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+- Rajput, K.
+- Schram, M.
+- Edelen, A.
+- Colen, J.
+- Kasparian, A.
+- Roussel, R.
+- Carpenter, A.
+- Zhang, H.
+- Benesch, J.
+# author_notes:
+# - "Equal contribution"
+# - "Equal contribution"
+date: "2025-04-16T00:00:00Z"
+doi: "https://doi.org/10.1088/2632-2153/adc221"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -17,44 +25,39 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
-publication_short: ""
+publication: "Harnessing the power of gradient-based simulations for multi-objective optimization in particle accelerators"
+publication_short: "Differential Reinforcement Learning"
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Particle accelerator operation requires simultaneous optimization of multiple objectives. Multi-objective optimization (MOO) is particularly challenging due to trade-offs between the objectives. Evolutionary algorithms, such as genetic algorithms (GAs), have been leveraged for many optimization problems, however, they do not apply to complex control problems by design. This paper demonstrates the power of differentiability for solving MOO problems in particle accelerators using a deep differentiable reinforcement learning (DDRL) algorithm. We compare the DDRL algorithm with model-free reinforcement learning (MFRL), GA, and Bayesian optimization (BO) for simultaneous optimization of heat load and trip rates in the continuous electron beam accelerator facility. The underlying problem enforces strict constraints on both individual states and actions as well as cumulative (global) constraints on energy requirements of the beam. Using historical accelerator data, we develop a physics-based surrogate model which is differentiable and allows for back-propagation of gradients. The results are evaluated in the form of a Pareto-front with two objectives. We show that the DDRL outperforms MFRL, BO, and GA on high dimensional problems.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Differential Reinforcement Learning outperforms Multi-objective TD3, Multi-Objective Bayesian Optimization, Multi-objective Genetic Algorithms on highly complex constrained optimization problems.
 
 tags:
-- Source Themes
-featured: false
+- Reinforcement Learning
+- Optimization
+- Controls
+- Differential Simulation
+- Bayesian Optimization
+- Multi-objective
 
-hugoblox:
-  ids:
-    arxiv: 1512.04133v1
+featured: true
 
-links:
-  - type: pdf
-    url: http://arxiv.org/pdf/1512.04133v1
-  - type: code
-    url: https://github.com/HugoBlox/kit
-  - type: dataset
-    url: ""
-  - type: poster
-    url: ""
-  - type: project
-    url: ""
-  - type: slides
-    url: https://www.slideshare.net/
-  - type: source
-    url: ""
-  - type: video
-    url: ""
+
+url_pdf: https://iopscience.iop.org/article/10.1088/2632-2153/adc221/pdf
+url_source: https://iopscience.iop.org/article/10.1088/2632-2153/adc221
+# url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+# url_dataset: ''
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+# url_source: ''
+# url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 'Image credit: [**Unsplash**](https://iopscience.iop.org/article/10.1088/2632-2153/adc221)'
   focal_point: ""
   preview_only: false
 
@@ -70,13 +73,15 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: ""
+slides: example
 ---
 
-> [!NOTE]
-> Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+<!-- {{% callout note %}}
+Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+{{% /callout %}}
 
-> [!NOTE]
-> Create your slides in Markdown - click the *Slides* button to check out the example.
+{{% callout note %}}
+Create your slides in Markdown - click the *Slides* button to check out the example.
+{{% /callout %}}
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). -->
