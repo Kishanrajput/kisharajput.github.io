@@ -1,19 +1,4 @@
-name: Deploy Hugo site to Pages
-
-on:
-  push:
-    branches: ["main"]
-  workflow_dispatch:
-
-permissions:
-  contents: read
-  pages: write
-  id-token: write
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
+steps:
       - name: Checkout
         uses: actions/checkout@v4
         with:
@@ -22,8 +7,7 @@ jobs:
 
       - name: Install pnpm
         uses: pnpm/action-setup@v4
-        with:
-          version: 10
+        # We removed "version: 10" here because it's in your package.json
 
       - name: Setup Node
         uses: actions/setup-node@v4
@@ -34,7 +18,6 @@ jobs:
       - name: Install dependencies
         run: pnpm install
 
-      # This is the "Magic" step that tells Hugo where Tailwind is
       - name: Add node_modules to PATH
         run: echo "$(pwd)/node_modules/.bin" >> $GITHUB_PATH
 
@@ -45,21 +28,4 @@ jobs:
           extended: true
 
       - name: Build with Hugo
-        # We use pnpm run build to trigger the script in your package.json
         run: pnpm run build
-
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: ./public
-
-  deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
-    needs: build
-    steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
