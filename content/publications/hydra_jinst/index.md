@@ -21,7 +21,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Journal of Instrumentation"
+publication: "Journal of Instrumentation, Volume 19, Article C12005"
 publication_short: "JINST"
 
 abstract: Hydra, initially developed for Hall-D in 2019, is a system that utilizes computer vision to perform near real time data quality monitoring. Since then, it has been deployed across all experimental halls at Jefferson Lab, with the CLAS12 collaboration in Hall-B being the first outside of GlueX to fully utilize Hydra. The system comprises back end processes that manage the models, their inferences, and the data flow. The front-end components, accessible via web pages, allow detector experts and shift crews to view and interact with the system.
@@ -43,7 +43,7 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: https://iopscience.iop.org/article/10.1088/1748-0221/19/12/C12005/meta
+url_source: 'https://iopscience.iop.org/article/10.1088/1748-0221/19/12/C12005'
 url_video: ''
 
 # Featured image

@@ -20,8 +20,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Outlook Towards Deployable Continual Learning for Particle Accelerators"
-publication_short: "Continual Learning for Particle Accelerators"
+publication: "Machine Learning: Science and Technology, Volume 6, Number 3, Article 031001"
+publication_short: "MLST"
 
 abstract: Particle accelerators are high power complex machines. To ensure uninterrupted operation of these machines, thousands of pieces of equipment need to be synchronized, which requires addressing many challenges including design, optimization and control, anomaly detection and machine protection. With recent advancements, machine learning (ML) holds promise to assist in more advance prognostics, optimization, and control. While ML based solutions have been developed for several applications in particle accelerators, only few have reached deployment and even fewer to long term usage, due to particle accelerator data distribution drifts caused by changes in both measurable and non-measurable parameters. In this paper, we identify some of the key areas within particle accelerators where continual learning can allow maintenance of ML model performance with distribution drifts. Particularly, we first discuss existing applications of ML in particle accelerators, and their limitations due to distribution drift. Next, we review existing continual learning techniques and investigate their potential applications to address data distribution drifts in accelerators. By identifying the opportunities and challenges in applying continual learning, this paper seeks to open up the new field and inspire more research efforts towards deployable continual learning for particle accelerators.
 
@@ -37,17 +37,14 @@ tags:
 
 featured: true
 
-links:
-# - name: Journal URL
-# url: 
-url_pdf: https://iopscience.iop.org/article/10.1088/2632-2153/adeb45/pdf
-url_source: https://doi.org/10.1088/2632-2153/adeb45
-# url_code: '#'
-# url_dataset: '#'
-# url_poster: '#'
-# url_project: ''
-# url_slides: ''
-# url_source: ''
+url_pdf: 'https://iopscience.iop.org/article/10.1088/2632-2153/adeb45/pdf'
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: 'https://iopscience.iop.org/article/10.1088/2632-2153/adeb45'
+url_video: ''
 # url_video: '#'
 
 

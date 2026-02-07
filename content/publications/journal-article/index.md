@@ -25,8 +25,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Harnessing the power of gradient-based simulations for multi-objective optimization in particle accelerators"
-publication_short: "Differential Reinforcement Learning"
+publication: "Machine Learning: Science and Technology, Volume 6, Number 2, Article 025018"
+publication_short: "MLST"
 
 abstract: Particle accelerator operation requires simultaneous optimization of multiple objectives. Multi-objective optimization (MOO) is particularly challenging due to trade-offs between the objectives. Evolutionary algorithms, such as genetic algorithms (GAs), have been leveraged for many optimization problems, however, they do not apply to complex control problems by design. This paper demonstrates the power of differentiability for solving MOO problems in particle accelerators using a deep differentiable reinforcement learning (DDRL) algorithm. We compare the DDRL algorithm with model-free reinforcement learning (MFRL), GA, and Bayesian optimization (BO) for simultaneous optimization of heat load and trip rates in the continuous electron beam accelerator facility. The underlying problem enforces strict constraints on both individual states and actions as well as cumulative (global) constraints on energy requirements of the beam. Using historical accelerator data, we develop a physics-based surrogate model which is differentiable and allows for back-propagation of gradients. The results are evaluated in the form of a Pareto-front with two objectives. We show that the DDRL outperforms MFRL, BO, and GA on high dimensional problems.
 
@@ -43,13 +43,13 @@ tags:
 
 featured: true
 
-url_pdf: https://iopscience.iop.org/article/10.1088/2632-2153/adc221/pdf
+url_pdf: 'https://iopscience.iop.org/article/10.1088/2632-2153/adc221/pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: https://iopscience.iop.org/article/10.1088/2632-2153/adc221
+url_source: 'https://iopscience.iop.org/article/10.1088/2632-2153/adc221'
 url_video: ''
 
 # Featured image

@@ -9,17 +9,17 @@ authors:
   - John, J. S.
   - Sharma, H.
 
-date: '2023-01-01'
-doi: '10.1103/PhysRevAccelBeams.26.044602'
+date: '2023-08-21'
+doi: 'https://doi.org/10.1103/PhysRevAccelBeams.26.044602'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2023-01-01T00:00:00Z'
+publishDate: '2023-08-21T00:00:00Z'
 
 # Publication type.
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Physical Review Accelerators and Beams"
+publication: "Physical Review Accelerators and Beams, Volume 26, Article 044602"
 publication_short: ""
 
 abstract: "Surrogate models based on machine learning are increasingly used to accelerate optimization and control of particle accelerators. This paper presents methods for quantifying uncertainties in ML-based surrogate models applied to the Fermilab Booster Accelerator Complex, enabling more reliable predictions and better decision-making."

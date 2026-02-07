@@ -24,7 +24,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Machine Learning Science and Technology"
+publication: "Machine Learning: Science and Technology, Volume 5, Number 1, Article 015044"
 publication_short: "MLST"
 
 abstract: Particle accelerators are complex and comprise thousands of components, with many pieces of equipment running at their peak power. Consequently, they can fault and abort operations for numerous reasons, lowering efficiency and science output. To avoid these faults, we apply anomaly detection techniques to predict unusual behavior and perform preemptive actions to improve the total availability. Supervised machine learning (ML) techniques such as siamese neural network models can outperform the often-used unsupervised or semi-supervised approaches for anomaly detection by leveraging the label information. One of the challenges specific to anomaly detection for particle accelerators is the data’s variability due to accelerator configuration changes within a production run of several months. ML models fail at providing accurate predictions when data changes due to changes in the configuration. To address this challenge, we include the configuration settings into our models and training to improve the results. Beam configurations are used as a conditional input for the model to learn any cross-correlation between the data from different conditions and retain its performance. We employ conditional siamese neural network (CSNN) models and conditional variational auto encoder (CVAE) models to predict errant beam pulses at the spallation neutron source under different system configurations and compare their performance. We demonstrate that CSNNs outperform CVAEs in our application.
@@ -43,11 +43,14 @@ tags:
 
 featured: false
 
-
-url_pdf: https://iopscience.iop.org/article/10.1088/2632-2153/ad2e18/pdf
-url_source: https://iopscience.iop.org/article/10.1088/2632-2153/ad2e18
-# url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-# url_dataset: ''
+url_pdf: 'https://iopscience.iop.org/article/10.1088/2632-2153/ad2e18/pdf'
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: 'https://iopscience.iop.org/article/10.1088/2632-2153/ad2e18'
+url_video: ''
 # url_poster: ''
 # url_project: ''
 # url_slides: ''
