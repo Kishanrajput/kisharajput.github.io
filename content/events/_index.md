@@ -10,4 +10,7 @@ view: card
 image:
   caption: ''
   filename: ''
+
+# Reduce title heading size
+heading_variant: h2
 ---
