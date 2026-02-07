@@ -42,11 +42,21 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        I am a Staff Computer Scientist at Thomas Jefferson National Accelerator Facility (Jefferson Lab) in Newport News, VA. I specialize in developing advanced machine learning solutions for particle accelerators and nuclear physics applications.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        **Research Interests:**
+        - Reinforcement Learning & Multi-objective Optimization
+        - Uncertainty Quantification for Machine Learning
+        - Continual Learning for Non-stationary Environments
+        - Particle Accelerator Applications
+        - Explainable AI (XAI) for Scientific Discovery
 
-        Please reach out to collaborate 😃
+        **Current Leadership:**
+        - PI: Self-driving NP Scientific User Facilities ($2M DOE funding)
+        - Team Lead: ML for SNS Accelerator Performance ($2.4M DOE funding)
+        - Team Co-lead: Nuclear Femtography Inference at Exascale ($6.5M DOE SciDAC funding)
+
+        I mentor junior scientists, postdocs, and graduate students in machine learning development and research methodologies. I'm passionate about making AI practical and trustworthy for high-impact scientific applications.
     design:
       columns: '1'
   - block: collection
