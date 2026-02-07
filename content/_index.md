@@ -42,19 +42,13 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I am a Staff Computer Scientist at Thomas Jefferson National Accelerator Facility (Jefferson Lab) in Newport News, VA. I specialize in developing advanced machine learning solutions for particle accelerators and nuclear physics applications.
-
-        **Research Interests:**
-        - Reinforcement Learning & Multi-objective Optimization
-        - Uncertainty Quantification for Machine Learning
-        - Continual Learning for Non-stationary Environments
-        - Particle Accelerator Applications
-        - Explainable AI (XAI) for Scientific Discovery
+        I am a Staff Computer Scientist at Thomas Jefferson National Accelerator Facility (Jefferson Lab) in Newport News, VA. I specialize in developing advanced machine learning solutions for Science and Engineering.
 
         **Current Leadership:**
-        - PI: Self-driving NP Scientific User Facilities ($2M DOE funding)
-        - Team Lead: ML for SNS Accelerator Performance ($2.4M DOE funding)
-        - Team Co-lead: Nuclear Femtography Inference at Exascale ($6.5M DOE SciDAC funding)
+        - JLab PI: Towards Higher Brightness Beam for BNL with AI ($700K JLab)
+        - JLab PI: Hardware Aware Artificial Intelligence for HEP ($0.6M JLab / $2M total)
+        - Jlab PI: Self-driving NP Scientific User Facilities ($700K JLab / $2M total)
+        - Team Lead / Co-PI: ML for SNS Accelerator Performance ($600K JLab / $2.2M total)
 
         I mentor junior scientists, postdocs, and graduate students in machine learning development and research methodologies. I'm passionate about making AI practical and trustworthy for high-impact scientific applications.
     design:
