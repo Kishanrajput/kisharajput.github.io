@@ -70,8 +70,18 @@ sections:
       filters:
         folders:
           - events
+        featured_only: true
     design:
       view: card
+  - block: collection
+    content:
+      title: Other Talks
+      filters:
+        folders:
+          - events
+        featured_only: false
+    design:
+      view: date-title-summary
   - block: collection
     id: news
     content:
