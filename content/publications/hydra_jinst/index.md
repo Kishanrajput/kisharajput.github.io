@@ -37,16 +37,14 @@ tags:
 
 featured: false
 
-
 url_pdf: ''
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
 url_source: https://iopscience.iop.org/article/10.1088/1748-0221/19/12/C12005/meta
-# url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-# url_dataset: ''
-# url_poster: ''
-# url_project: ''
-# url_slides: ''
-# url_source: ''
-# url_video: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
