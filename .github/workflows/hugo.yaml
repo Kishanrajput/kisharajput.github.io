@@ -23,7 +23,7 @@ jobs:
       - name: Install pnpm
         uses: pnpm/action-setup@v4
         with:
-          version: 10 # Matches your package.json pnpm@10.14.0
+          version: 10
 
       - name: Setup Node
         uses: actions/setup-node@v4
@@ -34,6 +34,10 @@ jobs:
       - name: Install dependencies
         run: pnpm install
 
+      # This is the "Magic" step that tells Hugo where Tailwind is
+      - name: Add node_modules to PATH
+        run: echo "$(pwd)/node_modules/.bin" >> $GITHUB_PATH
+
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
@@ -41,7 +45,7 @@ jobs:
           extended: true
 
       - name: Build with Hugo
-        # Hugo will now find the tailwindcss binary in node_modules/.bin
+        # We use pnpm run build to trigger the script in your package.json
         run: pnpm run build
 
       - name: Upload artifact
