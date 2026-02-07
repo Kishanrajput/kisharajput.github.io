@@ -1,3 +1,0 @@
-User-agent: *
-
-Sitemap: https://kishanrajput.github.io/kisharajput.github.io/sitemap.xml
