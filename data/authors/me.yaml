@@ -38,22 +38,38 @@ experience:
   - role: "Staff Computer Scientist II"
     org: "Thomas Jefferson National Accelerator Facility (Jefferson Lab)"
     start: "2020"
-    summary: "Lead Multiple High-Impact Projects: (1) JLab PI: Towards Self-driving NP Scientific User Facilities (2025-2027) - $2M DOE Office of Science funding. Leading ML-based optimization/control, hybrid Bayesian optimization, deep reinforcement learning, and model predictive control. (2) Team Co-lead: Mathematics and Algorithm Development Group for Nuclear Femtography Inference at Exascale Platforms (2022-2024) - $6.5M DOE SciDAC funding. (3) Project Lead: ML-assisted charged particle tracking with Graph Neural Networks (2023-Present) - $150K/year funding. (4) Team Lead: Machine Learning for SNS Accelerator Performance (2023-2026) - $2.4M DOE funding.\n"
+    summary: |
+      - JLab PI: Towards Self-driving NP Scientific User Facilities (2025-2027) - $2M DOE Office of Science funding. Leading ML-based optimization/control, hybrid Bayesian optimization, deep reinforcement learning, and model predictive control.
+      - Team Co-lead: Mathematics and Algorithm Development Group for Nuclear Femtography Inference at Exascale Platforms (2022-2024) - $6.5M DOE SciDAC funding.
+      - Project Lead: ML-assisted charged particle tracking with Graph Neural Networks (2023-Present) - $150K/year funding.
+      - Team Lead: Machine Learning for SNS Accelerator Performance (2023-2026) - $2.4M DOE funding.
   - role: "Data Analytics Specialist"
     org: "Shell, Houston Headquarters, TX, USA"
     start: "2019"
     end: "2019"
-    summary: "Supported well engineers' team with production level solutions. Improved detection/visualization of over/under gauge in oil well drilling. Developed novel deep learning architecture to detect surface formation transitions using gamma ray signal logs. Developed Encryption Agent to improve user experience.\n"
+    summary: |
+      - Supported well engineers' team with production level solutions.
+      - Improved detection/visualization of over/under gauge in oil well drilling.
+      - Developed novel deep learning architecture to detect surface formation transitions using gamma ray signal logs.
+      - Developed Encryption Agent to improve user experience.
   - role: "Research Assistant"
     org: "University of Houston"
     start: "2018"
     end: "2020"
-    summary: "Development of Data Driven Solutions for Oil Well Drilling Applications. Devised visual analytical framework for anomaly detection. Improved recommender system for individual forecasting. Developed probabilistic envelope-based visualization technique for time series data. Teaching Assistant in graduate level AI class.\n"
+    summary: |
+      - Development of Data Driven Solutions for Oil Well Drilling Applications.
+      - Devised visual analytical framework for anomaly detection.
+      - Improved recommender system for individual forecasting.
+      - Developed probabilistic envelope-based visualization technique for time series data.
+      - Teaching Assistant in graduate level AI class.
   - role: "Data Analyst Software Developer"
     org: "Kilkenny Electronics, Ahmedabad, GJ, India"
     start: "2015"
     end: "2018"
-    summary: "Reduced operating cost by automating daily tasks including timekeeping, notifications, grades, progress reports, leaves and payroll by creating an ERP system using SQL and Java. Improved follow-up process with students by creating analytical tools. Mentored freelance developers and interns.\n"
+    summary: |
+      - Reduced operating cost by automating daily tasks including timekeeping, notifications, grades, progress reports, leaves and payroll by creating an ERP system using SQL and Java.
+      - Improved follow-up process with students by creating analytical tools.
+      - Mentored freelance developers and interns.
 skills:
   - name: "Technical Skills"
     items:
