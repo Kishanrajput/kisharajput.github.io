@@ -9,4 +9,7 @@ view: citation
 banner:
   caption: ''
   image: ''
+
+# Pagination settings
+paginate_by: 50
 ---
