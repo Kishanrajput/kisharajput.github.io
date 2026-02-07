@@ -1,0 +1,17 @@
+# Hugo build artifacts
+/public/
+/resources/_gen/
+/.hugo_build.lock
+/hugo_stats.json
+
+# Node.js dependencies
+node_modules/
+
+# Temporary files
+*.tar.gz
+*.zip
+/tmp/
+
+# OS files
+.DS_Store
+Thumbs.db
