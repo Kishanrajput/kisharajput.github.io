@@ -19,6 +19,6 @@ main:
   - name: Projects
     url: projects/
     weight: 30
-  - name: Blog
+  - name: Blogs
     url: /#news
     weight: 40
