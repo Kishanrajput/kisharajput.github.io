@@ -31,7 +31,7 @@ tags:
 
 featured: false
 
-url_pdf: ''
+url_pdf: 'https://www.osti.gov/servlets/purl/3012386'
 url_code: ''
 url_dataset: ''
 url_poster: ''
