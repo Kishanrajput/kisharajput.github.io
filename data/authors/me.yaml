@@ -13,7 +13,7 @@ status:
   icon: ""
 role: "Computer Scientist"
 avatar:
-  filename: me.jpg
+  filename: me.png
 bio: "Staff Computer Scientist II at Thomas Jefferson National Accelerator Facility (Jefferson Lab). Specializing in machine learning for particle accelerators and nuclear physics applications, with expertise in reinforcement learning and uncertainty quantification.\n"
 affiliations:
   - name: "Thomas Jefferson National Accelerator Facility"
