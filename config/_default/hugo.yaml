@@ -9,18 +9,6 @@ title: ''
 baseURL: 'https://kishanrajput.github.io/'
 
 ############################
-## ROBOTS & SITEMAP
-############################
-
-outputFormats:
-  robots:
-    mediaType: text/plain
-    baseName: robots
-
-outputs:
-  home: [HTML, RSS, robots, sitemap]
-
-############################
 ## LANGUAGE
 ############################
 
