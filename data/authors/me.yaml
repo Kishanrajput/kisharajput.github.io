@@ -39,10 +39,15 @@ experience:
     org: "Thomas Jefferson National Accelerator Facility (Jefferson Lab)"
     start: "2020"
     summary: |
-      - JLab PI: Towards Self-driving NP Scientific User Facilities (2025-2027) - $2M DOE Office of Science funding. Leading ML-based optimization/control, hybrid Bayesian optimization, deep reinforcement learning, and model predictive control.
+      Specializing in developing advanced machine learning solutions for science and engineering with a focus on making AI practical and trustworthy for high-impact scientific applications.
+      - JLab PI: Towards Higher Brightness Beam for BNL with AI ($700K JLab)
+      - JLab PI: Hardware Aware Artificial Intelligence for HEP ($0.6M JLab / $2M total)
+      - JLab PI: Self-driving NP Scientific User Facilities ($700K JLab / $2M total)
+      - Team Lead / Co-PI: ML for SNS Accelerator Performance ($600K JLab / $2.2M total)
       - Team Co-lead: Mathematics and Algorithm Development Group for Nuclear Femtography Inference at Exascale Platforms (2022-2024) - $6.5M DOE SciDAC funding.
-      - Project Lead: ML-assisted charged particle tracking with Graph Neural Networks (2023-Present) - $150K/year funding.
-      - Team Lead: Machine Learning for SNS Accelerator Performance (2023-2026) - $2.4M DOE funding.
+      - Project Lead: ML-assisted charged particle tracking with Graph Neural Networks (2023-Present)
+      - Mentor junior scientists, postdocs, and graduate students in machine learning development and research methodologies
+      - Lead cross-functional teams on developing and deploying ML solutions for accelerator optimization and control
   - role: "Data Analytics Specialist"
     org: "Shell, Houston Headquarters, TX, USA"
     start: "2019"
