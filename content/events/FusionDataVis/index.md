@@ -11,7 +11,7 @@ address:
   city: Princeton, NJ, USA
   country: USA
 
-summary: Current progress on machine learning applications for particle accelerators and its scope for Fusion Science.
+summary: '<span class="inline-block px-2 py-1 text-xs font-semibold rounded-full bg-yellow-100 text-yellow-800 dark:bg-yellow-900 dark:text-yellow-100 mr-2 mb-2">Invited Talk</span> Current progress on machine learning applications for particle accelerators and its scope for Fusion Science.'
 abstract: ""
 
 # Talk start and end times.
@@ -27,6 +27,7 @@ authors:
   - admin
 
 tags:
+  - Invited Talk
   - Machine Learning
   - Particle Accelerator
   - Diagnostics

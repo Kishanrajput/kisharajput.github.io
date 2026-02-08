@@ -1,5 +1,6 @@
 ---
-title: (Talk) Towards a Robust Adaptive Digital Twin for Fusion Applications
+title: Towards a Robust Adaptive Digital Twin for Fusion Applications
+talk_type: Talk
 
 event: 67th Annual Meeting of the APS Division of Plasma Physics
 event_url: https://www.aps.org/meetings/calendar/
@@ -9,7 +10,7 @@ address:
   city: San Diego, CA
   country: USA
 
-summary: Talk on developing robust adaptive digital twins with uncertainty awareness for fusion science applications.
+summary: '<span class="inline-block px-2 py-1 text-xs font-semibold rounded-full bg-blue-100 text-blue-800 dark:bg-blue-900 dark:text-blue-100 mr-2 mb-2">Talk</span> Talk on developing robust adaptive digital twins with uncertainty awareness for fusion science applications.'
 abstract: "Developing accurate and robust digital twins for fusion plasma control is essential for advancing fusion energy research. We present methods for creating adaptive digital twins that can handle non-stationary data and provide uncertainty estimates. This work demonstrates how advanced machine learning techniques can improve model predictions in the face of changing accelerator conditions and plasma dynamics."
 
 # Talk start and end times.
@@ -25,6 +26,7 @@ authors:
   - admin
 
 tags:
+  - Talk
   - Machine Learning
   - Digital Twins
   - Fusion Science

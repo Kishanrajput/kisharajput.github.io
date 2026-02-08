@@ -1,5 +1,6 @@
 ---
-title: (Invited Lecture) Multi-objective Reinforcement Learning
+title: Multi-objective Reinforcement Learning
+talk_type: Invited Lecture
 
 event: 5th Beam Dynamics Workshop on Applications of Machine Learning in Particle Accelerators
 event_url: https://indico.cern.ch/event/1382428/
@@ -10,7 +11,7 @@ address:
   city: Geneva, Switzerland
   country: Switzerland
 
-summary: Lecture on Multi-objective Reinforcement Learning as applied to Particle Accelerators at MaLAPA 2025, CERN, Geneva.
+summary: '<span class="inline-block px-2 py-1 text-xs font-semibold rounded-full bg-indigo-100 text-indigo-800 dark:bg-indigo-900 dark:text-indigo-100 mr-2 mb-2">Invited Lecture</span> Lecture on Multi-objective Reinforcement Learning as applied to Particle Accelerators at MaLAPA 2025, CERN, Geneva.'
 abstract: 'Multi-objective reinforcement learning (MORL) extends traditional reinforcement learning (RL) by addressing environments where multiple conflicting objectives must be optimized simultaneously. In real-world applications, such as autonomous systems, particle accelerator optimization and control, agents often face trade-offs between competing goals. This lecture provides an overview of the key concepts, techniques, and challenges in MORL. We will explore different approaches to handling multiple objectives, including scalarization methods, Pareto dominance, and reward decomposition. Additionally, we will discuss the concept of the Pareto front and how it can guide decision-making in complex environments. The lecture will also highlight the role of exploration-exploitation trade-offs in multi-objective settings and the development of algorithms that can balance these objectives effectively. By the end of the session, attendees will gain a deeper understanding of how to design and implement multi-objective RL systems capable of navigating the complexities of real-world decision-making tasks'
 
 # Talk start and end times.
@@ -26,11 +27,11 @@ authors:
   - admin
 
 tags:
+  - Invited Lecture
   - Multi-objective optimization
   - Controls
   - Reinforcement Learning
   - Multi-objective RL
-  - Lecture
 
 
 # Is this a featured talk? (true/false)

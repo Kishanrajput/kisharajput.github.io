@@ -11,7 +11,7 @@ address:
   city: Geneva, Switzerland
   country: Switzerland
 
-summary: Talk on applying fast optimization and control with differential reinforcement learning leveraging differential simulations.
+summary: '<span class="inline-block px-2 py-1 text-xs font-semibold rounded-full bg-yellow-100 text-yellow-800 dark:bg-yellow-900 dark:text-yellow-100 mr-2 mb-2">Invited Talk</span> Talk on applying fast optimization and control with differential reinforcement learning leveraging differential simulations.'
 abstract: "Particle accelerator operation requires simultaneous optimization of multiple objectives. Multi-Objective Optimization (MOO) is particularly challenging due to trade-offs between the objectives. Evolutionary algorithms, such as genetic algorithm (GA), have been leveraged for many optimization problems, however, they do not apply to complex control problems by design. This paper demonstrates the power of differentiability for solving MOO problems using a Deep Differentiable Reinforcement Learning (DDRL) algorithm in particle accelerators. We compare DDRL algorithm with Model Free Reinforcement Learning (MFRL), GA and Bayesian Optimization (BO) for simultaneous optimization of heat load and trip rates in the Continuous Electron Beam Accelerator Facility (CEBAF). The underlying problem enforces strict constraints on both individual states and actions as well as cumulative (global) constraint for energy requirements of the beam. A physics-based surrogate model based on real data is developed. This surrogate model is differentiable and allows back-propagation of gradients. The results are evaluated in the form of a Pareto-front for two objectives. We show that the DDRL outperforms MFRL, BO, and GA on high dimensional problems."
 
 # Talk start and end times.
@@ -27,6 +27,7 @@ authors:
   - admin
 
 tags:
+  - Invited Talk
   - Multi-objective optimization
   - Controls
   - Reinforcement Learning

@@ -11,7 +11,7 @@ address:
   city: Liverpool, England
   country: UK
 
-summary: Continual/Lifelong machine learning for ever drifting particle accelerator data at IBIC 2025, University of Liverpool, UK.
+summary: '<span class="inline-block px-2 py-1 text-xs font-semibold rounded-full bg-yellow-100 text-yellow-800 dark:bg-yellow-900 dark:text-yellow-100 mr-2 mb-2">Invited Talk</span> Continual/Lifelong machine learning for ever drifting particle accelerator data at IBIC 2025, University of Liverpool, UK.'
 abstract: "This talk covers our work on errant beam prognostics at the Spallation Neutron Source (SNS), focusing on the end-to-end process from data collection to the development and deployment of predictive models in specific. A short overview of AIML work done for accelerators and current trends will be presented. We will walk through key steps involved in creating robust Machine Learning (ML) models, including model training, validation, and deployment in an operational setting. In addition to presenting our technical approach, we will share valuable lessons learned, emphasizing the importance of infrastructure to support the continuous adaptation of models to evolving data and system behaviors. This talk provides insights into the challenges and solutions involved in applying ML to real-world operational environments, with a particular focus on managing data drift and changes in accelerator setup while ensuring model resilience over time."
 
 # Talk start and end times.
@@ -27,6 +27,7 @@ authors:
   - admin
 
 tags:
+  - Invited Talk
   - Machine Learning
   - Continual Learning
   - Diagnostics

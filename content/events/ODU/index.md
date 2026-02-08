@@ -11,7 +11,7 @@ address:
   city: Norfolk, VA, USA
   country: USA
 
-summary: Guest lecture within the graduate particle accelerators class at ODU department of physics. 
+summary: '<span class="inline-block px-2 py-1 text-xs font-semibold rounded-full bg-green-100 text-green-800 dark:bg-green-900 dark:text-green-100 mr-2 mb-2">Guest Lecture</span> Guest lecture within the graduate particle accelerators class at ODU department of physics.' 
 abstract: ""
 
 # Talk start and end times.
@@ -27,6 +27,7 @@ authors:
   - admin
 
 tags:
+  - Guest Lecture
   - Particle Accelerator
   - Diagnostics
   - Machine Learning

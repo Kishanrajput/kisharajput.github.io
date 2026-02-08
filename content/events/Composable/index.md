@@ -11,7 +11,7 @@ address:
   city: Newport News VA, USA
   country: USA
 
-summary: Long term software steward requires composable modular development and management.
+summary: '<span class="inline-block px-2 py-1 text-xs font-semibold rounded-full bg-yellow-100 text-yellow-800 dark:bg-yellow-900 dark:text-yellow-100 mr-2 mb-2">Invited Talk</span> Long term software steward requires composable modular development and management.'
 abstract: "Applications of Artificial Intelligence (AI) and Machine Learning (ML) can improve the computational efficiency and scientific research output. In order to improve interoperability and reuse of AI/ML software, a composable approach is required. This talk presents a composable approach for scientific workflow development that allows seamless integration of various modules developed by independent researchers. These practices will reduce redundant software development by allowing re-use of workflow modules across projects, teams, departments and facilities. We will present three use cases that follow the composable approach namely Scientific Optimization and Control Toolkit (SOCT), SciDAC QuantOm workflow, and JLab Nuclear Physics experimental workflows. This talk will dive deeper into SOCT and present the details of the composable code development for optimization and control algorithms using reinforcement learning."
 
 # Talk start and end times.
@@ -27,6 +27,7 @@ authors:
   - admin
 
 tags:
+  - Invited Talk
   - Software Development
   - Machine Learning
   - Composable Software

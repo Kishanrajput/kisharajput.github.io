@@ -11,7 +11,7 @@ address:
   city: Gyeongju, South Korea
   country: South Korea
 
-summary: Lecture on Model up-keep / Continual Learning for Particle Accelerators at MaLAPA 2024, Gyeongju, South Korea.
+summary: '<span class="inline-block px-2 py-1 text-xs font-semibold rounded-full bg-purple-100 text-purple-800 dark:bg-purple-900 dark:text-purple-100 mr-2 mb-2">Invited Tutorial</span> Lecture on Model up-keep / Continual Learning for Particle Accelerators at MaLAPA 2024, Gyeongju, South Korea.'
 abstract: 'Particle accelerators are dynamic machines and pose a major challenge for scientists at the intersection of nuclear physics and machine learning (ML) with evolving operational conditions and data drift. Traditional ML models trained on historical data can fail to provide good predictions on future data. They fall short in adapting to dynamic distributions. This tutorial introduces the particle accelerator community to continual learning techniques to address this challenge. The tutorial covers fundamentals of concept/data drift, drift detection, continual learning, online learning for model-upkeep, transfer learning along with potential practical use cases'
 
 # Talk start and end times.
@@ -27,6 +27,7 @@ authors:
   - admin
 
 tags:
+  - Invited Tutorial
   - Machine Learning
   - Continual Learning
   - Data Drift

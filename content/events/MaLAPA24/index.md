@@ -11,7 +11,7 @@ address:
   city: Gyeongju, South Korea
   country: South Korea
 
-summary: Application of Machine Learning to improve accelerator operation, application of conditional models to predict anomalies at SNS accelerator.
+summary: '<span class="inline-block px-2 py-1 text-xs font-semibold rounded-full bg-yellow-100 text-yellow-800 dark:bg-yellow-900 dark:text-yellow-100 mr-2 mb-2">Invited Talk</span> Application of Machine Learning to improve accelerator operation, application of conditional models to predict anomalies at SNS accelerator.'
 abstract: "Particle accelerators are made up of thousands of components with many pieces of equipment running at their peak power. As a consequence, particle accelerators can fault and abort operations for numerous reasons. In order to avoid these faults, we apply uncertainty aware Machine Learning (ML) based anomaly prediction techniques. We predict any unusual behavior and perform preemptive actions in order to improve the total availability of particle accelerators. One of the challenges with application of ML on particle accelerators is the variability of the data due to changes in the system configurations. To address this, we employ conditional models. In addition, distance-based uncertainty awareness allows us to decide when a model need to be re-trained/tuned for continual learning with drift in the data. In this talk, we present an overview of various ML use-cases being explored at Spallation Neutron Source (SNS) accelerator to improve efficiency. Further, we present errant beam prognostics in detail including experimental setup, data collection, curation, model training, evaluation and deployment results. In addition, we present comparison between semi-supervised (conditional variational auto-encoder) and supervised learning (conditional Siamese model) methods for anomaly detection at SNS."
 
 # Talk start and end times.
@@ -27,6 +27,7 @@ authors:
   - admin
 
 tags:
+  - Invited Talk
   - Machine Learning
   - Particle Accelerator
   - Diagnostics

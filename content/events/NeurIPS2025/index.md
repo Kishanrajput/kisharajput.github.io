@@ -1,23 +1,23 @@
 ---
-title: Differential and Explainable Reinforcement Learning for Multi-objective Optimization in Particle Accelerators
-talk_type: Invited Talk
+title: Continual Learning for Particle Accelerators
+talk_type: Spotlight Talk
 
-event: Artificial Intelligence for Electron Ion Collider (AI4EIC) 2025
-event_url: https://indico.bnl.gov/event/28082/
+event: Machine Learning and the Physical Sciences Workshop, NeurIPS 2025
+event_url: https://ml4physicalsciences.github.io/2025/
 
-location: MIT, Boston, MA
+location: San Diego, CA
 address:
   street: 
-  city: Boston, MA
+  city: San Diego, CA
   country: USA
 
-summary: '<span class="inline-block px-2 py-1 text-xs font-semibold rounded-full bg-yellow-100 text-yellow-800 dark:bg-yellow-900 dark:text-yellow-100 mr-2 mb-2">Invited Talk</span> Explainable and Differential Reinforcement Learning for Multi-objective Optimization in Particle Accelerators'
-abstract: "This talk presents recent advancements in applying explainable and differential reinforcement learning techniques for multi-objective optimization in particle accelerators. We will discuss how differential simulations combined with RL can handle conflicting optimization objectives, and how explainability methods help understand the decision-making process of RL agents."
+summary: Unfortunately, I could not travel to the conference, thanks to Malachi Schram for presenting this spotlight Talk on our paper "Continual Learning for Particle Accelerators"
+abstract: 'Particle accelerators operate under dynamically changing conditions, which often lead to data distribution drifts. These drifts pose significant challenges for Machine Learning (ML) models, which typically fail to maintain performance when faced with such non-stationary data. In particle accelerators, the primary sources of data drifts include changes in accelerator settings and non-measured parameters such as machine degradation. Previous research has proposed conditional models to handle multiple beam configurations effectively; however, it is challenging to train ML models on all possible configuration settings. Additionally, conditional models alone can not address performance degradation caused by drifts due to non-measured factors. These limitations contribute to a significant gap between ML development and its deployment in real-world operational settings. To bridge this gap, in this paper, we identify some of the key areas within particle accelerators where continual learning can help mitigate drift-induced performance degradation. In addition, we present a real use case where memory-based continual learning has been employed to demonstrate stable performance on conditional Auto-Encoder model when switching between different beam settings.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2025-10-27T11:00:00Z'
-date_end: '2025-10-29T11:15:00Z'
+date: '2025-12-06T00:00:00Z'
+date_end: '2025-12-06T00:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -28,16 +28,13 @@ authors:
 
 tags:
   - Invited Talk
-  - Particle Accelerator
+  - Continual Learning
   - Machine Learning
-  - Reinforcement Learning
-  - Explainable AI
-  - Multi objective
-  - MORL
+  - Particle Accelerators
 
 
 # Is this a featured talk? (true/false)
-featured: true
+featured: false
 
 image:
   caption: 'Image credit: [**Kishan**]()'
@@ -50,8 +47,8 @@ image:
 #    url: https://twitter.com/georgecushen
 # url_code: 'https://github.com'
 # url_pdf: ''
-url_slides: 'https://indico.bnl.gov/event/28082/contributions/115347/'
-# url_video: 'https://youtube.com'
+# url_slides: ''
+url_video: 'https://neurips.cc/virtual/2025/loc/san-diego/135883'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
