@@ -63,6 +63,18 @@ sections:
         exclude_featured: false
     design:
       view: citation
+  - block: markdown
+    id: service-intro
+    content:
+      title: Professional Service
+      text: I am actively involved in peer review, mentoring, and conference organization to advance the scientific community.
+      cta:
+        text: View Full Service Page
+        url: /service/
+        icon_pack: fas
+        icon: arrow-right
+    design:
+      columns: '1'
   - block: collection
     id: talks
     content:
