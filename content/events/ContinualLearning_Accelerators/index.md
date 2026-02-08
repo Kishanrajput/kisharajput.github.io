@@ -1,5 +1,6 @@
 ---
-title: (Invited Tutorial) Model up-keep with Continual Learning for Particle Accelerators
+title: Model up-keep with Continual Learning for Particle Accelerators
+talk_type: Invited Tutorial
 
 event: 4th Beam Dynamics Workshop on Applications of Machine Learning in Particle Accelerators
 event_url: https://www.indico.kr/event/47/

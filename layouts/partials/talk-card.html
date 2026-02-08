@@ -1,0 +1,19 @@
+{{- define "talk-card" -}}
+  <div class="mb-3">
+    {{- with .Params.talk_type }}
+      {{- partial "talk-type-badge.html" . }}
+    {{- end }}
+    <a href="{{ .RelPermalink }}" class="hover:underline">
+      <h3 class="text-base font-semibold">{{ .Title }}</h3>
+    </a>
+    {{- with .Params.event }}
+      <p class="text-sm text-gray-600 dark:text-gray-400">{{ . }}</p>
+    {{- end }}
+    {{- with .Params.location }}
+      <p class="text-xs text-gray-500 dark:text-gray-500">{{ . }}</p>
+    {{- end }}
+    {{- with .Date }}
+      <p class="text-xs text-gray-500 dark:text-gray-500">{{ .Format "January 2, 2006" }}</p>
+    {{- end }}
+  </div>
+{{- end -}}

@@ -1,5 +1,6 @@
 ---
-title: (Invited Talk) Harnessing the Power of Gradient Based Simulations for Multi-Objective Optimization in Particle Accelerators
+title: Harnessing the Power of Gradient Based Simulations for Multi-Objective Optimization in Particle Accelerators
+talk_type: Invited Talk
 
 event: 5th Beam Dynamics Workshop on Applications of Machine Learning in Particle Accelerators
 event_url: https://indico.cern.ch/event/1382428/

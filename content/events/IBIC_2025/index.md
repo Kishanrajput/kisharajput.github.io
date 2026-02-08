@@ -1,5 +1,6 @@
 ---
-title: (Invited Talk) Towards continual machine learning for your ever-changing accelerators
+title: Towards continual machine learning for your ever-changing accelerators
+talk_type: Invited Talk
 
 event: 14th International Beam Instrumentation Conference
 event_url: https://indico.jacow.org/event/90/

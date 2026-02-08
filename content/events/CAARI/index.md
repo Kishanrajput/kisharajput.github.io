@@ -1,5 +1,6 @@
 ---
-title: (Invited Talk) Errant Beam Prognostics with Machine Leaning at SNS Accelerator
+title: Errant Beam Prognostics with Machine Leaning at SNS Accelerator
+talk_type: Invited Talk
 
 event: 27th International Conference on the Application of Accelerators in Research and Industry (CAARI) and the 55th Symposium of Northeastern Accelerator Personnel (SNEAP)
 event_url: https://caari-sneap.com/home

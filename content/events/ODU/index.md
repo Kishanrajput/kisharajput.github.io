@@ -1,5 +1,6 @@
 ---
-title: (Guest Lecture) Fault Prediction in Particle Accelerators
+title: Fault Prediction in Particle Accelerators
+talk_type: Guest Lecture
 
 event: Guest Lecture at Old Dominion University, Physics Department Graduate School (PHYS 755)
 event_url: 

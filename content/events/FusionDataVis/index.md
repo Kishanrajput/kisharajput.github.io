@@ -1,5 +1,6 @@
 ---
-title: (Invited Talk) Machine Learning for Prognostics and Optimization of Particle Accelerators
+title: Machine Learning for Prognostics and Optimization of Particle Accelerators
+talk_type: Invited Talk
 
 event: AI and Visualizing large dataset workshop
 event_url: https://indico.iter.org/event/319/contributions/2438/

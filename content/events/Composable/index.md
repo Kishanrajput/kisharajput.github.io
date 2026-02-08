@@ -1,5 +1,6 @@
 ---
-title: (Invited Talk) Composable Optimization and Control Toolkit for Scientific Applications
+title: Composable Optimization and Control Toolkit for Scientific Applications
+talk_type: Invited Talk
 
 event: Software Infrastructure for Advance Nuclear Physics Computing
 event_url: https://indico.jlab.org/event/827/contributions/14691/

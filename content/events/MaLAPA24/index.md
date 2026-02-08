@@ -1,5 +1,6 @@
 ---
-title: (Invited Talk) Machine Learning to Improve Accelerator Operation at SNS 
+title: Machine Learning to Improve Accelerator Operation at SNS
+talk_type: Invited Talk
 
 event: 4th Beam Dynamics Workshop on Applications of Machine Learning in Particle Accelerators
 event_url: https://www.indico.kr/event/47/contributions/519/

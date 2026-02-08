@@ -1,5 +1,6 @@
 ---
-title: (Invited Talk) Differential and Explainable Reinforcement Learning for Multi-objective Optimization in Particle Accelerators
+title: Differential and Explainable Reinforcement Learning for Multi-objective Optimization in Particle Accelerators
+talk_type: Invited Talk
 
 event: Artificial Intelligence for Electron Ion Collider (AI4EIC) 2025
 event_url: https://indico.bnl.gov/event/28082/
